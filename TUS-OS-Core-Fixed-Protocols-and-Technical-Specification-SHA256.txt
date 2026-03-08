@@ -1,0 +1,2 @@
+Document: TUS OS - Core Fixed Protocols & Technical Specification.pdf
+SHA-256: ce3226189e87f09dad137891351a5e1e8f94c6ce8f4fc952a5490837c95c6ff7
