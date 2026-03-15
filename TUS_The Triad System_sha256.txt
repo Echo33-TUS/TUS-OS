@@ -1,0 +1,5 @@
+TUS_The Triad System_sha256 Checksums
+
+615314f7519a07114019f0eceeff6aaf5fcf6f9f610074de56a8310e38bc7975  The Triad System: Structural Triangulation for Verifiable AI Conformance.pdf
+
+7c83c77d1cc605b5fb8d0c5145ef8b97dc2145b4898281970e21a80dc6309e5f  TUS LANDING_TRIAD_SET Specification v1.0.pdf
